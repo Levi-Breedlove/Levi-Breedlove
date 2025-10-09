@@ -1,12 +1,9 @@
 <!-- Levi-Breedlove's GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm Levi 👋</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/9919/167303875-8b7bb9a2-4f9a-4c7e-9de4-63e1e7a96d68.png" height="120" alt="Creative Banner" />
-</p>
 
 <p align="center">
-  <b>Developer • Designer • Adventurer</b>  
+  <b>Developer • Adventurer</b>  
 </p>
 
 ---
