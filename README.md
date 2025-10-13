@@ -64,7 +64,7 @@
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Levi--Breedlove-181717?style=for-the-badge&logo=github)](https://github.com/Levi-Breedlove)
+[![GitHub](https://img.shields.io/badge/GitHub-Levi-Breedlove-181717?style=for-the-badge&logo=github)](https://github.com/Levi-Breedlove)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)
 
 ---
