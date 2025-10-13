@@ -17,7 +17,7 @@
 
 ---
 
-### 🏅 Certifications
+### 🏅 Certifications/Training
 
 <p>
   <img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-232F3E?logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
