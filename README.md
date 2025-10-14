@@ -67,14 +67,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Levi-Breedlove)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)
 
----
-
-### 🛸 Yoda’s Wisdom (Coding Edition)
-
-> “Code or code not. There is no try…except maybe in Python.” — Yoda, probably
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Levi-Breedlove&style=flat-square" alt="Profile views"/>
 </p>
