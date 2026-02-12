@@ -34,14 +34,6 @@
   <img src="https://img.shields.io/badge/AWS%20Knowledge:%20Cloud%20Essentials-232F3E?logo=amazonaws&logoColor=white" alt="AWS Knowledge: Cloud Essentials"/>
 </p>
 
----
-
-### 🏆 Favorite Project
-
-**[AWS Strands Consultant/Guide](#)**
-> _A smart consultant for navigating AWS strands, blending AI with cloud wizardry!_
-
----
 
 ### 🧰 Top Skills
 
@@ -58,7 +50,7 @@
 
 - 🌄 I love traveling, hiking, and seeing the world for what it is.
 - 🎨 Creativity is my superpower—tech meets imagination!
-- 🤖 I make AI do cool things (especially with “strands”).
+- 🤖 I make AI do cool things).
 
 ---
 
