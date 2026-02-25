@@ -44,16 +44,6 @@
 ![AI](https://img.shields.io/badge/AI-creative-ff69b4?style=flat)
 ![Design](https://img.shields.io/badge/Design-creative-yellow?style=flat)
 
----
-
-### 🌍 Fun Facts
-
-- 🌄 I love traveling, hiking, and seeing the world for what it is.
-- 🎨 Creativity is my superpower—tech meets imagination!
-- 🤖 I make AI do cool things).
-
----
-
 ### 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Levi-Breedlove)
