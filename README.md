@@ -33,9 +33,6 @@
 - AI-assisted workflows and tooling
 
 ---
-
-## Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-snake.svg" />
