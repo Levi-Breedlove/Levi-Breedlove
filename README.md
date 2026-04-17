@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  AWS Cloud Institute learner building hands-on projects across serverless architecture, web development, cloud automation, and emerging agent-based workflows.
+  Building hands-on projects across serverless architecture, web development, cloud automation, and emerging agent-based workflows.
 </p>
 
 <p align="center">
