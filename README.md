@@ -1,6 +1,5 @@
 <h1 align="center">Levi Breedlove</h1>
 
-<hr>
 
 <p align="center">
   <strong>AWS Cloud Builder • Serverless Projects • Automation • AI-Assisted Development</strong>
