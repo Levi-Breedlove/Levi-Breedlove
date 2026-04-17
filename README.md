@@ -1,15 +1,15 @@
 <p align="center">
+  <a href="https://www.linkedin.com/in/levi-breedlove/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.credly.com/users/levi-breedlove"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>&nbsp;
+  <a href="https://github.com/Levi-Breedlove?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
+
+<p align="center">
   <strong>AWS Cloud Builder • Serverless Projects • Automation • AI-Assisted Development</strong>
 </p>
 
 <p align="center">
   Building hands-on projects across serverless architecture, web development, cloud automation, and AI-assisted workflows.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/levi-breedlove/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.credly.com/users/levi-breedlove"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>&nbsp;
-  <a href="https://github.com/Levi-Breedlove?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ## Current Focus
