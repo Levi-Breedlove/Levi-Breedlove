@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  Coming from an operations background, I care about reliability, execution, scalability, and building things that actually work in practice.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/levi-breedlove/">LinkedIn</a> •
   <a href="https://www.credly.com/users/levi-breedlove">Credly</a> •
   <a href="https://github.com/Levi-Breedlove?tab=repositories">Repositories</a>
