@@ -14,8 +14,6 @@
   <a href="https://github.com/Levi-Breedlove?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-<br>
-
 ## Current Focus
 
 - Building cloud applications with AWS services and serverless patterns
