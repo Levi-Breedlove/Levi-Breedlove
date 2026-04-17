@@ -1,4 +1,6 @@
-<h1 align="center">Levi Breedlove</h1>
+<p align="center">
+  <strong style="font-size: 36px;">Levi Breedlove</strong>
+</p>
 
 <hr>
 
@@ -16,13 +18,19 @@
   <a href="https://github.com/Levi-Breedlove?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-## Current Focus
+<br>
+
+<p>
+  <strong style="font-size: 28px;">Current Focus</strong>
+</p>
 
 - Building cloud applications with AWS services and serverless patterns
 - Strengthening skills in Python, Django, JavaScript, and React
 - Designing projects with clean architecture and practical business value
 - Exploring AI-assisted development and agent workflows
 - Growing into cloud-focused engineering roles through hands-on project delivery
+
+<br>
 
 <p align="center">
   <picture>
