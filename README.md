@@ -24,10 +24,6 @@
 - Exploring AI-assisted development and agent workflows
 - Growing into cloud-focused engineering roles through hands-on project delivery
 
-<br>
-
-## Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-snake-dark.svg" />
