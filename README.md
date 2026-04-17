@@ -1,36 +1,29 @@
-<!-- Levi-Breedlove's GitHub Profile README -->
-
-<h1 align="center">Hi there, I'm Levi 👋</h1>
+<h1 align="center">Levi Breedlove</h1>
+<h3 align="center">AWS • Cloud Projects • Automation</h3>
 
 <p align="center">
-  <b>Developer • Adventurer</b>  
+  Building practical projects with AWS, Python, Django, React, and AI tools.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/levi-breedlove/">LinkedIn</a> •
+  <a href="https://www.credly.com/users/levi-breedlove">Credly</a>
 </p>
 
 ---
 
-### 
+### Featured Repositories
+- [Customer-On-Boarding-Application](https://github.com/Levi-Breedlove/Customer-On-Boarding-Application)
+- [AWS-Serverless-Portfolio](https://github.com/Levi-Breedlove/AWS-Serverless-Portfolio)
+- [AnyCompany-Bicycle-Shop](https://github.com/Levi-Breedlove/AnyCompany-Bicycle-Shop)
+- [Pets-Application](https://github.com/Levi-Breedlove/Pets-Application)
 
-- 🧑‍💻 **Developer/Designer student** with a passion for cloud application development, especially on **AWS**.
-- 🧠 Skilled in **Django/React** and making AI work (strands, etc.).
-- 🌩️ Currently diving deep into AWS as a **Cloud Application Developer**.
-- 🌱 Always learning, always creating!
+---
 
-### 
+### Contribution Snake
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![AI](https://img.shields.io/badge/AI-creative-ff69b4?style=flat)
-![Design](https://img.shields.io/badge/Design-creative-yellow?style=flat)
-
-### 
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Levi-Breedlove)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Levi-Breedlove&style=flat-square" alt="Profile views"/>
-</p>
-
-<!-- Creative vibes only! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-contribution-grid-snake.svg" />
+</picture>
