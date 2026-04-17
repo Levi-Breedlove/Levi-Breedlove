@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 36px;">Levi Breedlove</strong>
+  <strong>Levi Breedlove</strong>
 </p>
 
 <hr>
@@ -20,9 +20,7 @@
 
 <br>
 
-<p>
-  <strong style="font-size: 28px;">Current Focus</strong>
-</p>
+**Current Focus**
 
 - Building cloud applications with AWS services and serverless patterns
 - Strengthening skills in Python, Django, JavaScript, and React
