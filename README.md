@@ -15,16 +15,6 @@
 </p>
 
 ---
-
-## Featured Repositories
-
-- [Customer-On-Boarding-Application](https://github.com/Levi-Breedlove/Customer-On-Boarding-Application)
-- [AWS-Serverless-Portfolio](https://github.com/Levi-Breedlove/AWS-Serverless-Portfolio)
-- [AnyCompany-Bicycle-Shop](https://github.com/Levi-Breedlove/AnyCompany-Bicycle-Shop)
-- [Pets-Application](https://github.com/Levi-Breedlove/Pets-Application)
-
----
-
 ## Current Focus
 
 - AWS cloud application development
