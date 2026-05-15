@@ -22,8 +22,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph animation" src="https://raw.githubusercontent.com/Levi-Breedlove/Levi-Breedlove/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
