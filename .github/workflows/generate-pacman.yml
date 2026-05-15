@@ -14,8 +14,6 @@ on:
 permissions:
   contents: write
 
-# Forces JavaScript GitHub Actions to run on Node 24 now
-# This helps future-proof the workflow before GitHub switches the default.
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -27,13 +25,18 @@ jobs:
     steps:
       # Generates the Pac-Man contribution graph SVG files
       - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@v3.2.5
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+
+          # Only generate Pac-Man
           games: pacman
 
+          # Makes Pac-Man play more boldly.
+          # Options: conservative, opportunistic, aggressive
+          player_style: aggressive
+
       # Pushes the generated SVG files to the output branch
-      # v5 uses Node 24, while v4 still declares Node 20.
       - name: Push Pac-Man SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
