@@ -2,21 +2,22 @@
 name: Generate Pac-Man
 
 on:
-  # Runs once per day at midnight UTC
   schedule:
     - cron: "0 0 * * *"
 
-  # Lets you manually run it from the GitHub Actions tab
   workflow_dispatch:
 
-  # Regenerates when you push changes to main
   push:
     branches:
       - main
 
-# Required so the workflow can push generated SVG files to the output branch
 permissions:
   contents: write
+
+# Forces JavaScript GitHub Actions to run on Node 24 now
+# This helps future-proof the workflow before GitHub switches the default.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   generate:
@@ -26,17 +27,15 @@ jobs:
     steps:
       # Generates the Pac-Man contribution graph SVG files
       - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v3.2.5
         with:
           github_user_name: ${{ github.repository_owner }}
-
-          # Only generate Pac-Man.
-          # Other options: breakout, galaga, puzzle-bobble
           games: pacman
 
       # Pushes the generated SVG files to the output branch
+      # v5 uses Node 24, while v4 still declares Node 20.
       - name: Push Pac-Man SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
