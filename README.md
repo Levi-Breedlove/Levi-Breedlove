@@ -2,9 +2,6 @@
   <strong>AWS Cloud Builder • Serverless Projects • Automation • AI-Assisted Development</strong>
 </p>
 
-<p align="center">
-  Building hands-on projects across serverless architecture, web development, cloud automation, and AI-assisted workflows.
-</p>
 
 ## Current Focus
 
