@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>AWS Cloud Builder • Serverless Projects • Automation • AI-Assisted Development</strong>
+  <strong>AWS Cloud Builder
 </p>
 
 
