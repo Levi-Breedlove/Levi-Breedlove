@@ -1,8 +1,3 @@
-<p align="center">
-  <strong>AWS Cloud Builder
-</p>
-
-
 ## Current Focus
 
 - Building cloud applications with AWS services and serverless patterns
